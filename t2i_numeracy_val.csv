@@ -1,0 +1,301 @@
+prompt_id,category,caption,scene_graph_prompt
+0,Num,two boys,two boys
+1,Num,six airplanes,six airplanes
+2,Num,five drums,five drums
+3,Num,one turtle,one turtle
+4,Num,seven women,seven women
+5,Num,eight cars,eight cars
+6,Num,two rabbits,two rabbits
+7,Num,six girls,six girls
+8,Num,one vase,one vase
+9,Num,eight bottles,eight bottles
+10,Num,three swans,three swans
+11,Num,three fish,three fish
+12,Num,four ships,four ships
+13,Num,six toys,six toys
+14,Num,one drum,one drum
+15,Num,five frogs,five frogs
+16,Num,seven drums,seven drums
+17,Num,seven computers,seven computers
+18,Num,seven shrimp,seven shrimp
+19,Num,two dogs,two dogs
+20,Num,four helicopters,four helicopters
+21,Num,seven refrigerators,seven refrigerators
+22,Num,one pig,one pig
+23,Num,six breads,six breads
+24,Num,five knives,five knives
+25,Num,one knife,one knife
+26,Num,one refrigerator,one refrigerator
+27,Num,two clocks,two clocks
+28,Num,five televisions,five televisions
+29,Num,four boys,four boys
+30,Num,four goldfish,four goldfish
+31,Num,six trucks,six trucks
+32,Num,five tables,five tables
+33,Num,five toys,five toys
+34,Num,four microwaves,four microwaves
+35,Num,seven balloons,seven balloons
+36,Num,three pillows,three pillows
+37,Num,six televisions,six televisions
+38,Num,seven lamps,seven lamps
+39,Num,seven cups,seven cups
+40,Num,five kites,five kites
+41,Num,two ducks,two ducks
+42,Num,five candles,five candles
+43,Num,two swans,two swans
+44,Num,one lemon,one lemon
+45,Num,four candles,four candles
+46,Num,three microwaves,three microwaves
+47,Num,seven trains,seven trains
+48,Num,two trains,two trains
+49,Num,four refrigerators,four refrigerators
+50,Num,four frogs,four frogs
+51,Num,one backpack,one backpack
+52,Num,six vases,six vases
+53,Num,four pigs,four pigs
+54,Num,six keys,six keys
+55,Num,three boys,three boys
+56,Num,seven printers,seven printers
+57,Num,six ducks,six ducks
+58,Num,seven desks,seven desks
+59,Num,two printers,two printers
+60,Num,six horses,six horses
+61,Num,seven camels,seven camels
+62,Num,six boys,six boys
+63,Num,eight peaches,eight peaches
+64,Num,three cows,three cows
+65,Num,one bowl,one bowl
+66,Num,five balloons,five balloons
+67,Num,three bottles,three bottles
+68,Num,six sheep,six sheep
+69,Num,four pens,four pens
+70,Num,eight rabbits,eight rabbits
+71,Num,five books,five books
+72,Num,four apples were picked from the tree,four apples were picked from the tree
+73,Num,three apples rolled off the counter,three apples rolled off the counter
+74,Num,three clocks ticked on the wall,three clocks ticked on the wall
+75,Num,four ducks quacked by the pond,four ducks quacked by the pond
+76,Num,seven frogs leaped into the water,seven frogs leaped into the water
+77,Num,five hamburgers sizzled on the grill,five hamburgers sizzled on the grill
+78,Num,six people gathered for a picnic,six people gathered for a picnic
+79,Num,three butterflies danced in the garden,three butterflies danced in the garden
+80,Num,five trains passed by the station,five trains passed by the station
+81,Num,two drums added rhythm to the music,two drums added rhythm to the music
+82,Num,two trucks unloaded their cargo,two trucks unloaded their cargo
+83,Num,six fish swam in the aquarium,six fish swam in the aquarium
+84,Num,seven strawberries were ripe for picking,seven strawberries were ripe for picking
+85,Num,five sheep grazed in the pasture,five sheep grazed in the pasture
+86,Num,eight cats lounged in the sun,eight cats lounged in the sun
+87,Num,four balloons floated in the sky,four balloons floated in the sky
+88,Num,eight sofas provided comfortable seating,eight sofas provided comfortable seating
+89,Num,two cars stuck on the road,two cars stuck on the road
+90,Num,four cameras and three horses,four cameras and three horses
+91,Num,one pear and three knives,one pear and three knives
+92,Num,three lamps and two trains,three lamps and two trains
+93,Num,three plates and three computers,three plates and three computers
+94,Num,three deer and four bowls,three deer and four bowls
+95,Num,three pillows and three cameras,three pillows and three cameras
+96,Num,three paintings and one knife,three paintings and one knife
+97,Num,two bees and two lamps,two bees and two lamps
+98,Num,one knife and two swans,one knife and two swans
+99,Num,one fish and one lamp,one fish and one lamp
+100,Num,two toys and three refrigerators,two toys and three refrigerators
+101,Num,one stool and four sinks,one stool and four sinks
+102,Num,two plates and three mice,two plates and three mice
+103,Num,three books and four cakes,three books and four cakes
+104,Num,four chickens and four horses,four chickens and four horses
+105,Num,two pillows and one microphone,two pillows and one microphone
+106,Num,four candles and four butterflies,four candles and four butterflies
+107,Num,one turtle and one candle,one turtle and one candle
+108,Num,four chickens and three keys,four chickens and three keys
+109,Num,one guitar and four candles,one guitar and four candles
+110,Num,four swans and two suitcases,four swans and two suitcases
+111,Num,two boats and four cakes,two boats and four cakes
+112,Num,two toys and one helicopter,two toys and one helicopter
+113,Num,four chickens and two bees,four chickens and two bees
+114,Num,four cups and three ships,four cups and three ships
+115,Num,four pigs and three plates,four pigs and three plates
+116,Num,three peaches and two cups,three peaches and two cups
+117,Num,two sofas and four chickens,two sofas and four chickens
+118,Num,two printers and one computer,two printers and one computer
+119,Num,three guitars and two pillows,three guitars and two pillows
+120,Num,three drums and four men,three drums and four men
+121,Num,four paddles and two plates,four paddles and two plates
+122,Num,three pears and two bananas,three pears and two bananas
+123,Num,one dog and two sofas,one dog and two sofas
+124,Num,four boys and three phones,four boys and three phones
+125,Num,two fish and two microphones,two fish and two microphones
+126,Num,four people and one phone,four people and one phone
+127,Num,two deer and four men,two deer and four men
+128,Num,four sinks and two tents,four sinks and two tents
+129,Num,three refrigerators and two rabbits,three refrigerators and two rabbits
+130,Num,two swans and one bottle,two swans and one bottle
+131,Num,one cat and one book,one cat and one book
+132,Num,one tent and three fish,one tent and three fish
+133,Num,one bread and two bowls,one bread and two bowls
+134,Num,four cats and three fish,four cats and three fish
+135,Num,two pillows and one lemon,two pillows and one lemon
+136,Num,one paddle and three goldfish,one paddle and three goldfish
+137,Num,one boat and four fish,one boat and four fish
+138,Num,one bee and three bowls,one bee and three bowls
+139,Num,two sinks and two cups,two sinks and two cups
+140,Num,one bicycle and one banana,one bicycle and one banana
+141,Num,three pens and one plate,three pens and one plate
+142,Num,four bags and three books,four bags and three books
+143,Num,three pigs and two tables,three pigs and two tables
+144,Num,two chairs and four sheep,two chairs and four sheep
+145,Num,one tent and two computers,one tent and two computers
+146,Num,three bowls and three couches,three bowls and three couches
+147,Num,four mice and two bags,four mice and two bags
+148,Num,one stool and three books,one stool and three books
+149,Num,two sinks and one helicopter,two sinks and one helicopter
+150,Num,four printers and four chickens,four printers and four chickens
+151,Num,two men and four deer,two men and four deer
+152,Num,three tables and two rabbits,three tables and two rabbits
+153,Num,one person and three cats,one person and three cats
+154,Num,four clocks and one phone,four clocks and one phone
+155,Num,four lamps and four dogs,four lamps and four dogs
+156,Num,three tomatoes and three pens,three tomatoes and three pens
+157,Num,three tables and two birds,three tables and two birds
+158,Num,three computers and four bottles,three computers and four bottles
+159,Num,one train and three bicycles,one train and three bicycles
+160,Num,three rabbits and three bicycles,three rabbits and three bicycles
+161,Num,three stools and three bears,three stools and three bears
+162,Num,two tables and three lamps illuminated the room,two tables and three lamps illuminated the room
+163,Num,four ships and four horses sailed into the sunset,four ships and four horses sailed into the sunset
+164,Num,two men and one pig played in the yard,two men and one pig played in the yard
+165,Num,three helicopters buzzed over two pillows,three helicopters buzzed over two pillows
+166,Num,four chairs and one giraffe provided seating at the zoo,four chairs and one giraffe provided seating at the zoo
+167,Num,one kite flew alongside three strawberries,one kite flew alongside three strawberries
+168,Num,three camels shared a burger,three camels shared a burger
+169,Num,three clocks ticked near two microwaves,three clocks ticked near two microwaves
+170,Num,one helmet and two airplanes soared through the sky,one helmet and two airplanes soared through the sky
+171,Num,three desks were covered with two butterflies,three desks were covered with two butterflies
+172,Num,three strawberries attracted four fish,three strawberries attracted four fish
+173,Num,three ships sailed alongside one swan,three ships sailed alongside one swan
+174,Num,two balloons floated with four mice,two balloons floated with four mice
+175,Num,three helicopters cooked with one microwave,three helicopters cooked with one microwave
+176,Num,three lemons and one banana were used for a recipe,three lemons and one banana were used for a recipe
+177,Num,four dogs played with two toys,four dogs played with two toys
+178,Num,four trains carried four people,four trains carried four people
+179,Num,one frog jumped near three suitcases,one frog jumped near three suitcases
+180,Num,"three couches, two keys, two women, four rabbits and one bowl","three couches, two keys, two women, four rabbits and one bowl"
+181,Num,"one bread, four fish, one computer, two bags and one bicycle","one bread, four fish, one computer, two bags and one bicycle"
+182,Num,"one bicycle, four apples and four chickens","one bicycle, four apples and four chickens"
+183,Num,"three chickens, three pens, one lemon, two tents and two birds","three chickens, three pens, one lemon, two tents and two birds"
+184,Num,"four shrimp, three microwaves, four helicopters and one bee","four shrimp, three microwaves, four helicopters and one bee"
+185,Num,"three helmets, one boat, one hamburger and one camera","three helmets, one boat, one hamburger and one camera"
+186,Num,"one egg, three camels, four cars and four pillows","one egg, three camels, four cars and four pillows"
+187,Num,"two books, two trains, four men, three bears and four hamburgers","two books, two trains, four men, three bears and four hamburgers"
+188,Num,"four drums, three cakes, three dogs and two helmets","four drums, three cakes, three dogs and two helmets"
+189,Num,"two fish, three desks, three horses, two couches and four ducks","two fish, three desks, three horses, two couches and four ducks"
+190,Num,"four tents, two boats and one pig","four tents, two boats and one pig"
+191,Num,"three fish, three peaches, three couches, three desks and one sofa","three fish, three peaches, three couches, three desks and one sofa"
+192,Num,"three bicycles, two frogs, two keys, two helmets and two pigs","three bicycles, two frogs, two keys, two helmets and two pigs"
+193,Num,"two candles, two people and two dogs","two candles, two people and two dogs"
+194,Num,"four keys, three helmets and four lamps","four keys, three helmets and four lamps"
+195,Num,"four sinks, three backpacks, two cups and two pears","four sinks, three backpacks, two cups and two pears"
+196,Num,"one bottle, one girl, one desk and two bananas","one bottle, one girl, one desk and two bananas"
+197,Num,"one lamp, three bananas and three chickens","one lamp, three bananas and three chickens"
+198,Num,"three candles, one cup, one goldfish and two cameras","three candles, one cup, one goldfish and two cameras"
+199,Num,"three strawberries, three cups, one mouse, two girls and three sofas","three strawberries, three cups, one mouse, two girls and three sofas"
+200,Num,"four couches, four shrimp, one cup and one candle","four couches, four shrimp, one cup and one candle"
+201,Num,"three stools, three flags, three tables, four boats and four pillows","three stools, three flags, three tables, four boats and four pillows"
+202,Num,"one pen, one table and one truck","one pen, one table and one truck"
+203,Num,"three chickens, four kites, three candles, four birds and four shrimp","three chickens, four kites, three candles, four birds and four shrimp"
+204,Num,"one vase, one woman and four goldfish","one vase, one woman and four goldfish"
+205,Num,"two cups, two drums, four tables and four bowls","two cups, two drums, four tables and four bowls"
+206,Num,"four bears, four cows, one swan, two trucks and three sheep","four bears, four cows, one swan, two trucks and three sheep"
+207,Num,"one banana, two bicycles, four strawberries and one sofa","one banana, two bicycles, four strawberries and one sofa"
+208,Num,"four desks, one mouse, four chickens and two camels","four desks, one mouse, four chickens and two camels"
+209,Num,"two paintings, two eggs and four rabbits","two paintings, two eggs and four rabbits"
+210,Num,"two helicopters, one rabbit and two turtles","two helicopters, one rabbit and two turtles"
+211,Num,"three helmets, one knife, four computers, two ducks and three paddles","three helmets, one knife, four computers, two ducks and three paddles"
+212,Num,"four tents, three pigs, one cow and four paddles","four tents, three pigs, one cow and four paddles"
+213,Num,"two girls, four horses and two chairs","two girls, four horses and two chairs"
+214,Num,"one stool, four balloons and three bananas","one stool, four balloons and three bananas"
+215,Num,"two clocks, one frog, one book and two cups","two clocks, one frog, one book and two cups"
+216,Num,"three ducks, two clocks, two desks, three cows and four kites","three ducks, two clocks, two desks, three cows and four kites"
+217,Num,"one guitar, two horses, four cakes and three kites","one guitar, two horses, four cakes and three kites"
+218,Num,"three printers, two bowls, one sheep, two camels and two books","three printers, two bowls, one sheep, two camels and two books"
+219,Num,"four vases, two dogs and three helmets","four vases, two dogs and three helmets"
+220,Num,"one television, three camels and four chickens","one television, three camels and four chickens"
+221,Num,"three turtles, two balloons, one fish, four kites and two bees","three turtles, two balloons, one fish, four kites and two bees"
+222,Num,"two candles, one fish and one bicycle","two candles, one fish and one bicycle"
+223,Num,"one airplane, two fish and two breads","one airplane, two fish and two breads"
+224,Num,"one sink, three camels and two paddles","one sink, three camels and two paddles"
+225,Num,"three bears, two computers, one drum and one person","three bears, two computers, one drum and one person"
+226,Num,"one chair, three women, two tomatoes, three pigs and three pens","one chair, three women, two tomatoes, three pigs and three pens"
+227,Num,"two chickens, four pens and one lemon","two chickens, four pens and one lemon"
+228,Num,"two apples, one bag, two dogs, four clocks and three microwaves","two apples, one bag, two dogs, four clocks and three microwaves"
+229,Num,"three toys, three kites, two birds and four microwaves","three toys, three kites, two birds and four microwaves"
+230,Num,"four pears, four desks, three paddles and two rabbits","four pears, four desks, three paddles and two rabbits"
+231,Num,"four women, three guitars and four cows","four women, three guitars and four cows"
+232,Num,"one frog, two fish, two tents, four phones and three turtles","one frog, two fish, two tents, four phones and three turtles"
+233,Num,"four boats, four cameras and four kites","four boats, four cameras and four kites"
+234,Num,"three giraffes, four kites and four tents","three giraffes, four kites and four tents"
+235,Num,"three bicycles, three balloons, three desks, two vases and four chickens","three bicycles, three balloons, three desks, two vases and four chickens"
+236,Num,"two bowls, three microwaves and two chickens","two bowls, three microwaves and two chickens"
+237,Num,"four peaches, three cars and three people","four peaches, three cars and three people"
+238,Num,"two keys, one kite and three rabbits","two keys, one kite and three rabbits"
+239,Num,"three bears, two girls, one chair, three cups and three chickens","three bears, two girls, one chair, three cups and three chickens"
+240,Num,"two cars, three clocks, one bottle and two microwaves","two cars, three clocks, one bottle and two microwaves"
+241,Num,"four ships, two tents and two fish","four ships, two tents and two fish"
+242,Num,"four apples, two books and two bees","four apples, two books and two bees"
+243,Num,"two refrigerators, four candles, one frog and three shrimp","two refrigerators, four candles, one frog and three shrimp"
+244,Num,"two flags, three butterflies, four bananas and two apples","two flags, three butterflies, four bananas and two apples"
+245,Num,"four books, four strawberries and four phones","four books, four strawberries and four phones"
+246,Num,"two printers, two cats, three frogs, two birds and three bees","two printers, two cats, three frogs, two birds and three bees"
+247,Num,"two printers, one person and two pillows","two printers, one person and two pillows"
+248,Num,"four bees, four rabbits and two trucks","four bees, four rabbits and two trucks"
+249,Num,"four horses, one computer, two pears, two airplanes and three bicycles","four horses, one computer, two pears, two airplanes and three bicycles"
+250,Num,"three mice, four tents, four televisions, two tables and two boys","three mice, four tents, four televisions, two tables and two boys"
+251,Num,"one candle, one helmet and three desks","one candle, one helmet and three desks"
+252,Num,"four couches, three candles, two fish, one frog and three plates","four couches, three candles, two fish, one frog and three plates"
+253,Num,"two toys, four kites, one turtle and two people","two toys, four kites, one turtle and two people"
+254,Num,"two bees, two vases and one bird","two bees, two vases and one bird"
+255,Num,"three refrigerators, three pigs, three helmets and four sofas","three refrigerators, three pigs, three helmets and four sofas"
+256,Num,"two pears, one lemon, two swans, two bicycles and four bowls","two pears, one lemon, two swans, two bicycles and four bowls"
+257,Num,"three pillows, two helicopters and four books","three pillows, two helicopters and four books"
+258,Num,"two bottles, four microphones and two boys","two bottles, four microphones and two boys"
+259,Num,"two keys, three phones and four birds","two keys, three phones and four birds"
+260,Num,"three hamburgers, three tomatoes, four deer, one banana and two bowls","three hamburgers, three tomatoes, four deer, one banana and two bowls"
+261,Num,"one duck, three pigs, three helicopters, three candles and two bowls","one duck, three pigs, three helicopters, three candles and two bowls"
+262,Num,"two desks, four fish, four frogs, three horses and four trains","two desks, four fish, four frogs, three horses and four trains"
+263,Num,"one lemon, two pens, one bird, three fish and four bowls","one lemon, two pens, one bird, three fish and four bowls"
+264,Num,"three plates, two clocks and one person","three plates, two clocks and one person"
+265,Num,"two eggs, one lemon, three plates and three bowls","two eggs, one lemon, three plates and three bowls"
+266,Num,"four paddles, four bottles and three guitars","four paddles, four bottles and three guitars"
+267,Num,"one guitar, two microwaves and three sofas","one guitar, two microwaves and three sofas"
+268,Num,"one bread, four sofas, two strawberries and one bicycle","one bread, four sofas, two strawberries and one bicycle"
+269,Num,"two giraffes, three eggs, two breads, three microwaves and four strawberries","two giraffes, three eggs, two breads, three microwaves and four strawberries"
+270,Num,"two camels, three balloons, two boys and three strawberries","two camels, three balloons, two boys and three strawberries"
+271,Num,"one swan, two trucks, three tents, two balloons and one giraffe","one swan, two trucks, three tents, two balloons and one giraffe"
+272,Num,"one duck, three cups, two deer and two boats","one duck, three cups, two deer and two boats"
+273,Num,"four bowls, one phone and four camels","four bowls, one phone and four camels"
+274,Num,"three airplanes, two cups, one chair, two lemons and four bowls","three airplanes, two cups, one chair, two lemons and four bowls"
+275,Num,"two books, three horses and one lemon","two books, three horses and one lemon"
+276,Num,"a backpack, three apples, two strawberries, and a bowl were on the kitchen counter","a backpack, three apples, two strawberries, and a bowl were on the kitchen counter"
+277,Num,"two guitars, a helicopter, and a balloon entertained the crowd","two guitars, a helicopter, and a balloon entertained the crowd"
+278,Num,"three bananas, two bees, an egg, a painting, and a goldfish adorned the room","three bananas, two bees, an egg, a painting, and a goldfish adorned the room"
+279,Num,"a microwave, a cup, three ships, and two fish were in the pantry","a microwave, a cup, three ships, and two fish were in the pantry"
+280,Num,"two flags, two cameras, two tomatoes, a couch, and three men filled the gallery","two flags, two cameras, two tomatoes, a couch, and three men filled the gallery"
+281,Num,"a fish, two stools, a lemon, and two vases were on the kitchen island","a fish, two stools, a lemon, and two vases were on the kitchen island"
+282,Num,"four sinks, two rabbits, and a stool completed the bathroom","four sinks, two rabbits, and a stool completed the bathroom"
+283,Num,"three mice, three women, four boats, a bird, and four bottles cluttered the shelf","three mice, three women, four boats, a bird, and four bottles cluttered the shelf"
+284,Num,"four bananas, four horses, and three cups were on the picnic table","four bananas, four horses, and three cups were on the picnic table"
+285,Num,"two pigs, four shrimp, and a cake were on the menu","two pigs, four shrimp, and a cake were on the menu"
+286,Num,"a helicopter, two dogs, and two lemons were on the playground","a helicopter, two dogs, and two lemons were on the playground"
+287,Num,"a bicycle, two desks, four strawberries, and three microwaves cluttered the office","a bicycle, two desks, four strawberries, and three microwaves cluttered the office"
+288,Num,"a chicken, four birds, and four microphones sang a lively tune","a chicken, four birds, and four microphones sang a lively tune"
+289,Num,"three clocks, four cats, three desks, and a book filled the study","three clocks, four cats, three desks, and a book filled the study"
+290,Num,"four phones, a butterfly, and a bottle adorned the coffee table","four phones, a butterfly, and a bottle adorned the coffee table"
+291,Num,"two sheep, four dogs, three candles, and three bees created a warm atmosphere","two sheep, four dogs, three candles, and three bees created a warm atmosphere"
+292,Num,"four backpacks, two peaches, and three trains were on the platform","four backpacks, two peaches, and three trains were on the platform"
+293,Num,"a computer, a microphone, and two flags completed the setup","a computer, a microphone, and two flags completed the setup"
+294,Num,"four bears, two rabbits, two helmets, and four stools provided seating","four bears, two rabbits, two helmets, and four stools provided seating"
+295,Num,"a microphone, three breads, and two camels entertained the audience","a microphone, three breads, and two camels entertained the audience"
+296,Num,"a camera, three strawberries, four frogs, and two horses were on the display","a camera, three strawberries, four frogs, and two horses were on the display"
+297,Num,"two bees, two desks, four birds, and two kites filled the classroom","two bees, two desks, four birds, and two kites filled the classroom"
+298,Num,"a strawberry, two bananas, four tents, and two peaches completed the camping gear","a strawberry, two bananas, four tents, and two peaches completed the camping gear"
+299,Num,"two cups, three paintings, four lamps, and four bananas decorated the art studio","two cups, three paintings, four lamps, and four bananas decorated the art studio"
